@@ -1,0 +1,9 @@
+instaloader
+flask
+transformers
+torch
+pandas
+numpy
+requests
+pillow
+dotenv
